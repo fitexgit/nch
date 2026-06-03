@@ -1,4 +1,4 @@
-p1
+p12
 
 vless://39974241-5daf-4036-9858-7a2c59875606@www.speedtest.net:2083?encryption=none&security=tls&sni=c6b0634a.BngPAg2.pageS.DeV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2FeyJqdW5rIjoid3BTSnpQb2IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxOTguMTg2LjEzMS4yMjIiXX0%3D%3Fed%3D2560#%F0%9F%87%AC%F0%9F%87%A7%20W3%20%40oxnet_ir%201
 trojan://T%2A%2BumDR@198.41.209.111:2087?security=tls&sni=c6B0634a.bnGpAg2.PAGES.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2FeyJqdW5rIjoiMTZGYjdjb0oiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxOTguMTg2LjEzMS4yMjIiXX0%3D%3Fed%3D2560#%F0%9F%87%AC%F0%9F%87%A7%20W3%20%40oxnet_ir%202
